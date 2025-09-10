@@ -1,0 +1,924 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "skills": [
+        "GraphQL",
+        "Azure",
+        "React",
+        "Jenkins",
+        "Terraform"
+      ],
+      "experience_years": 12,
+      "projects": [
+        "Banking System",
+        "IoT Device Management",
+        "Real-time Analytics Dashboard"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "skills": [
+        "MongoDB",
+        "Ansible",
+        "Java",
+        "JavaScript",
+        "Angular",
+        "Elasticsearch",
+        "Python"
+      ],
+      "experience_years": 11,
+      "projects": [
+        "Retail POS System",
+        "Ride Sharing App",
+        "Banking System"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Davis",
+      "skills": [
+        "Node.js",
+        "Git",
+        "CI/CD",
+        "Redis",
+        "TensorFlow"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Food Delivery App",
+        "Online Examination System",
+        "Fitness Tracking App"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 4,
+      "name": "Diana Evans",
+      "skills": [
+        "gRPC",
+        "React",
+        "Vue.js",
+        "TypeScript",
+        "Python",
+        "JavaScript",
+        "MongoDB"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Healthcare Dashboard",
+        "Fitness Tracking App",
+        "Logistics Optimization Tool",
+        "Digital Marketing Tool"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 5,
+      "name": "Ethan Clark",
+      "skills": [
+        "Redis",
+        "TensorFlow",
+        "Go",
+        "MySQL",
+        "AWS",
+        "C++"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Recruitment Portal",
+        "Inventory Management",
+        "Ride Sharing App",
+        "Learning Management System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 6,
+      "name": "Fiona Lewis",
+      "skills": [
+        "MongoDB",
+        "React",
+        "Scikit-learn",
+        "Tableau"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Customer Support Bot",
+        "Smart Home Automation"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 7,
+      "name": "George Harris",
+      "skills": [
+        "GCP",
+        "Terraform",
+        "Vue.js",
+        "PostgreSQL",
+        "AWS",
+        "MongoDB"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "E-commerce Platform",
+        "AI Chatbot"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 8,
+      "name": "Hannah Young",
+      "skills": [
+        "Python",
+        "Node.js",
+        "GraphQL",
+        "Go",
+        "Scikit-learn",
+        "Spring Boot",
+        "Flask"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Logistics Optimization Tool",
+        "Real-time Analytics Dashboard",
+        "Fraud Detection System",
+        "AI Chatbot"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 9,
+      "name": "Ian Walker",
+      "skills": [
+        "C++",
+        "GraphQL",
+        "Rust",
+        "Flask"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Fitness Tracking App",
+        "Customer Support Bot",
+        "Cryptocurrency Exchange"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 10,
+      "name": "Julia Hall",
+      "skills": [
+        "Node.js",
+        "Python",
+        "PowerBI",
+        "Ansible",
+        "NumPy"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "Healthcare Dashboard",
+        "Real-time Analytics Dashboard",
+        "Weather Forecasting App",
+        "Logistics Optimization Tool"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 11,
+      "name": "Kevin Allen",
+      "skills": [
+        "AWS",
+        "Kubernetes",
+        "React",
+        "GraphQL"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "Online Examination System",
+        "Ride Sharing App",
+        "Smart Home Automation"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 12,
+      "name": "Laura Scott",
+      "skills": [
+        "TensorFlow",
+        "AWS",
+        "Python",
+        "MongoDB",
+        "Go",
+        "TypeScript"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "AI Chatbot",
+        "Healthcare Dashboard",
+        "Travel Booking Platform",
+        "Inventory Management"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 13,
+      "name": "Michael Adams",
+      "skills": [
+        "TypeScript",
+        "JavaScript",
+        "PowerBI",
+        "Rust",
+        "Angular",
+        "Go",
+        "GCP"
+      ],
+      "experience_years": 13,
+      "projects": [
+        "Customer Support Bot",
+        "Travel Booking Platform"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 14,
+      "name": "Nina Baker",
+      "skills": [
+        "NumPy",
+        "Docker",
+        "TensorFlow"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "E-commerce Platform",
+        "Video Streaming Service",
+        "IoT Device Management",
+        "Cryptocurrency Exchange"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 15,
+      "name": "Oscar King",
+      "skills": [
+        "GraphQL",
+        "Git",
+        "Spring Boot",
+        "Django"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Customer Support Bot",
+        "Weather Forecasting App"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 16,
+      "name": "Paula Wright",
+      "skills": [
+        "Elasticsearch",
+        "PostgreSQL",
+        "Vue.js"
+      ],
+      "experience_years": 11,
+      "projects": [
+        "Healthcare Dashboard",
+        "Video Streaming Service",
+        "Digital Marketing Tool",
+        "Cybersecurity Threat Monitor"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 17,
+      "name": "Quinn Turner",
+      "skills": [
+        "Java",
+        "TensorFlow",
+        "Azure",
+        "Git",
+        "Go",
+        "JavaScript"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Fraud Detection System",
+        "Weather Forecasting App",
+        "AI Chatbot",
+        "Digital Marketing Tool"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 18,
+      "name": "Rachel Phillips",
+      "skills": [
+        "Git",
+        "Angular",
+        "MATLAB",
+        "JavaScript"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Fitness Tracking App",
+        "Learning Management System",
+        "Fraud Detection System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 19,
+      "name": "Sam Mitchell",
+      "skills": [
+        "Elasticsearch",
+        "TypeScript",
+        "Jenkins",
+        "Angular",
+        "Java",
+        "Rust",
+        "gRPC"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Fraud Detection System",
+        "Healthcare Dashboard",
+        "Learning Management System",
+        "Real-time Analytics Dashboard"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 20,
+      "name": "Tina Campbell",
+      "skills": [
+        "C++",
+        "MongoDB",
+        "Terraform",
+        "PostgreSQL"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "E-commerce Platform",
+        "Cybersecurity Threat Monitor",
+        "Learning Management System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 21,
+      "name": "Uma Rogers",
+      "skills": [
+        "NumPy",
+        "Angular",
+        "Python",
+        "Express.js",
+        "Azure"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Video Streaming Service",
+        "Inventory Management",
+        "Smart Home Automation",
+        "Weather Forecasting App"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 22,
+      "name": "Victor Carter",
+      "skills": [
+        "CI/CD",
+        "Express.js",
+        "Node.js",
+        "TypeScript",
+        "Django",
+        "Jenkins",
+        "TensorFlow"
+      ],
+      "experience_years": 13,
+      "projects": [
+        "Customer Support Bot",
+        "IoT Device Management",
+        "AI Chatbot",
+        "Logistics Optimization Tool"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 23,
+      "name": "Wendy Parker",
+      "skills": [
+        "gRPC",
+        "NumPy",
+        "C++",
+        "Docker",
+        "Flask"
+      ],
+      "experience_years": 13,
+      "projects": [
+        "Recruitment Portal",
+        "Smart Home Automation",
+        "Travel Booking Platform",
+        "Learning Management System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 24,
+      "name": "Xander Stewart",
+      "skills": [
+        "PyTorch",
+        "GraphQL",
+        "AWS"
+      ],
+      "experience_years": 9,
+      "projects": [
+        "Learning Management System",
+        "Cryptocurrency Exchange",
+        "Retail POS System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 25,
+      "name": "Yvonne Morris",
+      "skills": [
+        "JavaScript",
+        "Tableau",
+        "REST API",
+        "Docker",
+        "AWS",
+        "React"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Video Streaming Service",
+        "Smart Home Automation",
+        "Cryptocurrency Exchange"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 26,
+      "name": "Zachary Peterson",
+      "skills": [
+        "Tableau",
+        "Elasticsearch",
+        "Redis",
+        "AWS"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Healthcare Dashboard",
+        "Cybersecurity Threat Monitor",
+        "Smart Home Automation",
+        "Weather Forecasting App"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 27,
+      "name": "Amelia Howard",
+      "skills": [
+        "GraphQL",
+        "Pandas",
+        "REST API"
+      ],
+      "experience_years": 12,
+      "projects": [
+        "Learning Management System",
+        "Fraud Detection System"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 28,
+      "name": "Benjamin Bell",
+      "skills": [
+        "JavaScript",
+        "C++",
+        "Django",
+        "TypeScript",
+        "Docker",
+        "CI/CD",
+        "Spring Boot"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "Cryptocurrency Exchange",
+        "E-commerce Platform"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 29,
+      "name": "Clara Cooper",
+      "skills": [
+        "Redis",
+        "PowerBI",
+        "GraphQL",
+        "Angular"
+      ],
+      "experience_years": 10,
+      "projects": [
+        "Retail POS System",
+        "Food Delivery App",
+        "Fitness Tracking App",
+        "Cybersecurity Threat Monitor"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 30,
+      "name": "Daniel Ward",
+      "skills": [
+        "Java",
+        "PostgreSQL",
+        "Tableau",
+        "Spring Boot"
+      ],
+      "experience_years": 8,
+      "projects": [
+        "Cryptocurrency Exchange",
+        "Inventory Management",
+        "Video Streaming Service",
+        "Banking System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 31,
+      "name": "Elena Cox",
+      "skills": [
+        "Vue.js",
+        "MongoDB",
+        "MATLAB",
+        "Angular",
+        "Terraform",
+        "Django",
+        "Ansible"
+      ],
+      "experience_years": 6,
+      "projects": [
+        "Food Delivery App",
+        "Healthcare Dashboard",
+        "Weather Forecasting App",
+        "Customer Support Bot"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 32,
+      "name": "Frank Richardson",
+      "skills": [
+        "PyTorch",
+        "MySQL",
+        "Spring Boot",
+        "PostgreSQL",
+        "Ansible",
+        "CI/CD"
+      ],
+      "experience_years": 13,
+      "projects": [
+        "Cybersecurity Threat Monitor",
+        "Travel Booking Platform",
+        "Logistics Optimization Tool",
+        "Learning Management System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 33,
+      "name": "Grace Kelly",
+      "skills": [
+        "PowerBI",
+        "Terraform",
+        "Python",
+        "Kubernetes",
+        "NumPy"
+      ],
+      "experience_years": 1,
+      "projects": [
+        "Cybersecurity Threat Monitor",
+        "Fraud Detection System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 34,
+      "name": "Henry Torres",
+      "skills": [
+        "Terraform",
+        "Express.js",
+        "Flask"
+      ],
+      "experience_years": 12,
+      "projects": [
+        "Cryptocurrency Exchange",
+        "Ride Sharing App",
+        "AI Chatbot",
+        "Smart Home Automation"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 35,
+      "name": "Isabella Ramirez",
+      "skills": [
+        "Azure",
+        "Git",
+        "JavaScript",
+        "Angular"
+      ],
+      "experience_years": 11,
+      "projects": [
+        "Travel Booking Platform",
+        "Cryptocurrency Exchange",
+        "Ride Sharing App"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 36,
+      "name": "Jack Murphy",
+      "skills": [
+        "TypeScript",
+        "Node.js",
+        "Spring Boot",
+        "Azure",
+        "CI/CD",
+        "Elasticsearch"
+      ],
+      "experience_years": 4,
+      "projects": [
+        "Inventory Management",
+        "Digital Marketing Tool",
+        "Weather Forecasting App"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 37,
+      "name": "Katherine Hughes",
+      "skills": [
+        "C++",
+        "Kubernetes",
+        "CI/CD",
+        "Go",
+        "Tableau",
+        "Express.js",
+        "Rust"
+      ],
+      "experience_years": 1,
+      "projects": [
+        "Inventory Management",
+        "Learning Management System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 38,
+      "name": "Liam Foster",
+      "skills": [
+        "Pandas",
+        "gRPC",
+        "Flask",
+        "Jenkins",
+        "Django",
+        "C++"
+      ],
+      "experience_years": 12,
+      "projects": [
+        "Fitness Tracking App",
+        "Online Examination System",
+        "Learning Management System"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 39,
+      "name": "Mia Bennett",
+      "skills": [
+        "Pandas",
+        "MySQL",
+        "REST API",
+        "Node.js",
+        "PyTorch"
+      ],
+      "experience_years": 14,
+      "projects": [
+        "Banking System",
+        "Fitness Tracking App"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 40,
+      "name": "Noah Gray",
+      "skills": [
+        "CI/CD",
+        "PowerBI",
+        "JavaScript",
+        "Terraform",
+        "REST API",
+        "TensorFlow",
+        "Elasticsearch"
+      ],
+      "experience_years": 2,
+      "projects": [
+        "Online Examination System",
+        "IoT Device Management",
+        "Fraud Detection System",
+        "Ride Sharing App"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 41,
+      "name": "Olivia Ross",
+      "skills": [
+        "Docker",
+        "Azure",
+        "GCP",
+        "JavaScript",
+        "NumPy",
+        "PostgreSQL"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Real-time Analytics Dashboard",
+        "Recruitment Portal",
+        "Smart Home Automation"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 42,
+      "name": "Patrick Sanders",
+      "skills": [
+        "JavaScript",
+        "Angular",
+        "Vue.js",
+        "Python"
+      ],
+      "experience_years": 5,
+      "projects": [
+        "Real-time Analytics Dashboard",
+        "Weather Forecasting App",
+        "Cryptocurrency Exchange",
+        "Cybersecurity Threat Monitor"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 43,
+      "name": "Queen Matthews",
+      "skills": [
+        "NumPy",
+        "Git",
+        "C++",
+        "Scikit-learn",
+        "TensorFlow",
+        "REST API"
+      ],
+      "experience_years": 1,
+      "projects": [
+        "Digital Marketing Tool",
+        "Travel Booking Platform",
+        "Logistics Optimization Tool"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 44,
+      "name": "Ryan Powell",
+      "skills": [
+        "Docker",
+        "Vue.js",
+        "GraphQL",
+        "TypeScript"
+      ],
+      "experience_years": 15,
+      "projects": [
+        "Smart Home Automation",
+        "Learning Management System",
+        "Recruitment Portal",
+        "E-commerce Platform"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 45,
+      "name": "Sophia Long",
+      "skills": [
+        "Rust",
+        "Elasticsearch",
+        "Azure",
+        "JavaScript",
+        "MongoDB",
+        "Ansible",
+        "GraphQL"
+      ],
+      "experience_years": 3,
+      "projects": [
+        "Recruitment Portal",
+        "Online Examination System",
+        "Logistics Optimization Tool",
+        "Digital Marketing Tool"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 46,
+      "name": "Thomas Jenkins",
+      "skills": [
+        "Ansible",
+        "PowerBI",
+        "Pandas",
+        "NumPy"
+      ],
+      "experience_years": 12,
+      "projects": [
+        "Fraud Detection System",
+        "Online Examination System"
+      ],
+      "availability": "on leave"
+    },
+    {
+      "id": 47,
+      "name": "Ursula Perry",
+      "skills": [
+        "Spring Boot",
+        "TypeScript",
+        "Scikit-learn"
+      ],
+      "experience_years": 11,
+      "projects": [
+        "Healthcare Dashboard",
+        "Weather Forecasting App"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 48,
+      "name": "Violet Simmons",
+      "skills": [
+        "TensorFlow",
+        "Elasticsearch",
+        "gRPC",
+        "C++",
+        "JavaScript"
+      ],
+      "experience_years": 7,
+      "projects": [
+        "Digital Marketing Tool",
+        "Banking System",
+        "Online Examination System",
+        "Healthcare Dashboard"
+      ],
+      "availability": "busy"
+    },
+    {
+      "id": 49,
+      "name": "William Bryant",
+      "skills": [
+        "Ansible",
+        "Express.js",
+        "Angular",
+        "NumPy",
+        "GCP",
+        "gRPC"
+      ],
+      "experience_years": 15,
+      "projects": [
+        "Social Media Platform",
+        "Cryptocurrency Exchange",
+        "Customer Support Bot",
+        "IoT Device Management"
+      ],
+      "availability": "available"
+    },
+    {
+      "id": 50,
+      "name": "Zoe Flores",
+      "skills": [
+        "Go",
+        "Jenkins",
+        "Redis"
+      ],
+      "experience_years": 13,
+      "projects": [
+        "Real-time Analytics Dashboard",
+        "Social Media Platform",
+        "E-commerce Platform",
+        "Food Delivery App"
+      ],
+      "availability": "busy"
+    }
+  ]
+}

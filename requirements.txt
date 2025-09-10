@@ -1,0 +1,16 @@
+# Core packages
+Flask==2.3.3
+flask-cors==3.1.1
+python-dotenv==1.0.0
+
+# LangChain and LLMs
+langchain==0.1.202  # update to latest compatible version
+langchain-openai==0.1.13  # for OpenAI integration
+langchain-google-genai==0.0.6  # for Google Gemini/Gen AI
+
+# Embeddings and semantic search
+sentence-transformers==2.2.2
+faiss-cpu==1.7.4  # or faiss-gpu if you want GPU support
+
+# Data handling
+numpy==1.26.0
