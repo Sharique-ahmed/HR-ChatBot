@@ -106,8 +106,8 @@ Usage:
 
 ## Technical Decisions
 
-LLM Choice: Used ChatGPT due to stability, speed, and optimization.
-Local vs Cloud LLM: Cloud APIs used to avoid local GPU requirements and speed up prototyping.
+  - LLM Choice: Used ChatGPT due to stability, speed, and optimization.
+  - Local vs Cloud LLM: Cloud APIs used to avoid local GPU requirements and speed up prototyping.
 
 ## Trade-offs:
   - Performance optimized via FAISS + embeddings.
